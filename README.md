@@ -1,1 +1,2 @@
 # Intelligent-Legal-Decision-Support-System-with-AI-Automation
+The Intelligent Legal Decision Support System with AI Automation is a technology-driven solution that leverages artificial intelligence to assist legal professionals in decision-making. It automates legal research, case analysis, and document processing, providing data-driven insights and predictive analytics to improve accuracy and efficiency in legal proceedings
