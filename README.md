@@ -12,11 +12,17 @@ This project addresses this need by introducing an AI-Based Preliminary Legal Ad
 5. Compliance & Risk Assessment – Identifies potential legal risks and ensures compliance with regulations.
 
 # Requirements
-❖ User Query
+❖ User Quer
 ❖ Legal BERT model
 ❖ Flask/ Fast API
 ❖ Environmental Adaptability
 ❖ Security Measures
 
-# Output
-https://github.com/%3C%3Cyourusername%3E%3E/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16
+
+# Results and Impact
+The Intelligent Legal Decision Support System with AI Automation significantly enhances the efficiency and accuracy of legal processes by automating research, case analysis, and document management. It reduces human errors, speeds up decision-making, and lowers operational costs for law firms and businesses. By leveraging AI-driven predictive analytics, it provides data-driven legal strategies, improves compliance management, and ensures up-to-date legal insights. This system empowers legal professionals by allowing them to focus on complex legal matters while automating routine tasks. Additionally, it enhances access to justice by making legal knowledge more accessible to individuals and small businesses, ultimately improving client satisfaction with faster and more reliable legal services.
+
+# Reference
+[1] Andreev, A. N., & Krylov, V. (2017). AI-powered air quality management in underwater vehicles. Journal of Marine Science and Engineering, 5(4), 56.Ashraf, A., & Ikram, M. (2020). Submarine interior environmental monitoring using artificial intelligence. Marine Technology Society Journal, 54(2), 22-33.
+
+[2] Rabee Al-Qasem, Banan Tantour, Mohammed Maree, "Towards the Exploitation of LLM- based Chatbot for Providing Legal Support to Palestinian Cooperatives" 2023, ResearchGe
