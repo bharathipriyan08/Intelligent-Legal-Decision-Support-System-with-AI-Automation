@@ -13,9 +13,13 @@ This project addresses this need by introducing an AI-Based Preliminary Legal Ad
 
 # Requirements
 ❖ User Quer
+
 ❖ Legal BERT model
+
 ❖ Flask/ Fast API
+
 ❖ Environmental Adaptability
+
 ❖ Security Measures
 
 
